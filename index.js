@@ -1,1 +1,1 @@
-console.log("pretty");
+console.log("hot");
